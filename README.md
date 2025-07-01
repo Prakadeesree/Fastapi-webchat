@@ -10,6 +10,7 @@ Key Features
 🧼 Automatically handles user connect and disconnect events
 
 Interface Look
+
 ![image](https://github.com/user-attachments/assets/ef1fa602-bf4b-43bb-b346-691cb098c063)
 ![image](https://github.com/user-attachments/assets/9586bfa4-b4e5-4681-887b-92a2b68bad0f)
 
